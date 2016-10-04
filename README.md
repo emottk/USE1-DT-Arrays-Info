@@ -1,6 +1,6 @@
 #>>ARRAYS
 
-Let's say you're a teacher, and you're trying create a program to keep track of your students grades.		
+Let's say you're a teacher, and you're trying to create a program to keep track of your students grades.		
 
 First things first, we'll need to collect their names. We've learned how to store things in Ruby using variables, so let's try that.
 
